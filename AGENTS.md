@@ -1,0 +1,1 @@
+- Keep homepage sections as focused components in `src/components/site` and compose them at `/` to isolate content, interactions, and accessibility.
